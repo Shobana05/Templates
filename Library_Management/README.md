@@ -33,7 +33,7 @@ Usage of superscript and subscript.
 
 Two lists - one ordered and one unordered with relevant information.
 
-Preformatted text included using the <pre> tag.
+Preformatted text included using the pre tag.
 
 Deleted and inserted text displayed.
 
